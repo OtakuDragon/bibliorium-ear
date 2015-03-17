@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.otakudragon</groupId>
   <artifactId>bibliorium-ear</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-ALPHA</version>
   <name>bibliorium-ear</name>
   <packaging>ear</packaging>
   <description>Empacotamento do projeto Bibliorium</description>
@@ -11,7 +11,7 @@
 		<dependency>
 			<groupId>br.com.otakudragon</groupId>
 			<artifactId>bibliorium-war</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0-ALPHA</version>
 			<type>war</type>
 		</dependency>
 	</dependencies>
